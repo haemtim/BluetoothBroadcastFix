@@ -6,7 +6,7 @@ Every. Time.
 The script runs in the background, checking if the specified device is connected. Once it is detected, it restarts Broadcast.
 
 # How to use
-Set the device ID (on line 1)
+Set the device ID (on line 1) ([Guide](getdeviceid))
 
 Optional:
   - Set Path to the Nvidia Broadcast UI exe (on line 15)
