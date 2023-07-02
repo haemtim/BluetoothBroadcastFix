@@ -11,3 +11,10 @@ Set the device ID (on line 1) ([Guide](getdeviceid))
 Optional:
   - Set Path to the Nvidia Broadcast UI exe (on line 15)
   - Set a differnt sleep for the checking intervall (on line 6, Default: 5s)
+
+# Autostart on boot
+Set path to the ps1 script in autostart-bluetooth-broadcast.cmd
+
+'Win + R': shell:startup
+
+Place the cmd file (or a link to the file) in there
