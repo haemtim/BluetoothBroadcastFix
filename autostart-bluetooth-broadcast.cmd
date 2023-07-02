@@ -1,0 +1,1 @@
+powerShell -windowstyle hidden path\to\bluetooth-broadcast.ps1 >> C:\logs\StartupLog.log
