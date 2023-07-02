@@ -15,6 +15,6 @@ Optional:
 # Autostart on boot
 Set path to the ps1 script in autostart-bluetooth-broadcast.cmd
 
-'Win + R': shell:startup
+'''Win + R''': shell:startup
 
 Place the cmd file (or a link to the file) in there
